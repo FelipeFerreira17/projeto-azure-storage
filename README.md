@@ -6,6 +6,7 @@ Temos quatro opções dentro das contas de armazenamento do azure:
 * Queue
 * Table
 * Blob
+
 Neste Laboratório será feito:
 Criação de conta dearmazenamento no Azure
 Criação dos quatro tipos de conta de armazenamento
