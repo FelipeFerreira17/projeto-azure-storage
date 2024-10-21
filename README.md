@@ -37,5 +37,8 @@ Depois de criado teremos a seguinte tela:
 
 #### Criação Queues
 Esse é o serviço de armazenamento de mensagens. Com ele se pode criar e gerenciar mensagens.
-No menu de Data Storage, selecione a opção Queues.
+No menu de Data Storage, selecione a opção Queues. Depois selecione a opção Queue.
 ![2024-10-21 (4)](https://github.com/user-attachments/assets/c8e64fcf-e16e-45c2-a60c-b6edc2e47602)
+Se quiser, pode adicionar mensagens ou só crie o Queue.
+
+#### Criação Table
