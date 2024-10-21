@@ -30,5 +30,5 @@ Na tela da conta de armazenamento, clique em containers
 Acesse o Blob criado e adicione imagens ou arquivos nele.
 
 #### Criação File Storage
-No menu de Data Storage, selecione File Shares
+No menu de Data Storage, selecione File Shares. Em seguida entre na opção File Share.
 ![2024-10-21 (2)](https://github.com/user-attachments/assets/7e2c0bd0-307a-4019-bd22-3bae1be27bf7)
