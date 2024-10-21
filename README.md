@@ -19,3 +19,6 @@ O acesso deixarei como público.
 [^1]: Tela do Storage criada.
 
 ## Criação dos quatro tipos de conta de armazenamento
+#### Criação do Blob Storage
+Na tela da conta de armazenamento, clique em containers
+![2024-10-20 (11)](https://github.com/user-attachments/assets/284c75e1-0a49-47e8-8dc9-328eef3c1113)
