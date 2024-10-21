@@ -15,3 +15,4 @@ Neste Laboratório será feito:
 ## Criando uma conta de armazenamento do Azure.
 Crie a conta de armazenamento do Azure com a Redundância LRS e o tier como HOT.
 O acesso deixarei como público.
+![2024-10-20 (10)](https://github.com/user-attachments/assets/96da7cc3-99a9-4bb0-aad4-dbd1d01e097f)
