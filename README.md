@@ -32,3 +32,5 @@ Acesse o Blob criado e adicione imagens ou arquivos nele.
 #### Criação File Storage
 No menu de Data Storage, selecione File Shares. Em seguida entre na opção File Share.
 ![2024-10-21 (2)](https://github.com/user-attachments/assets/7e2c0bd0-307a-4019-bd22-3bae1be27bf7)
+Depois de criado teremos a seguinte tela:
+![2024-10-21 (3)](https://github.com/user-attachments/assets/5f5a2629-aab0-4f06-be8a-a7475611b8d6)
