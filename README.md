@@ -26,3 +26,5 @@ Na tela da conta de armazenamento, clique em containers
 ![2024-10-21](https://github.com/user-attachments/assets/edd2f616-3cc2-4c45-b82b-099f716663b8)
 
 ![2024-10-21 (1)](https://github.com/user-attachments/assets/d30c8a1f-3833-48b9-bcbd-25f107b83a39)
+
+Acesse o Blob criado e adicione imagens ou arquivos nele.
