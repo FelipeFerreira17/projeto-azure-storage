@@ -42,3 +42,4 @@ No menu de Data Storage, selecione a opção Queues. Depois selecione a opção 
 Se quiser, pode adicionar mensagens ou só crie o Queue.
 
 #### Criação Table
+Esse serviço é de armazenamento de dados não relacionais(NoSQL)
