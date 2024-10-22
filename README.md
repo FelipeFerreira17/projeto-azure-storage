@@ -48,4 +48,7 @@ No menu de Data Storage, vá em Tables e depois aperte em Table para  criar.
 ![2024-10-22](https://github.com/user-attachments/assets/aa2dc2cb-7201-4a56-b296-f4d32a8671c5)
 
 #### Vizualização e manipulação através do Storage Explorer.
-O Storage Explorer é uma ferramenta para usuários 
+O Storage Explorer é uma ferramenta que os usuários podem se conectar em contas de armazenamento e lá eles acessam os Blobs, queues, File Storages e as Tables.
+O Storage Explorer é uma ótima ferramenta de gerenciamento e visualização de dados em uma interface gráfica para os usuários.
+Para usar essa ferramenta, faça o download.
+[página para download do Storage Explorer](https://azure.microsoft.com/pt-br/products/storage/storage-explorer/?msockid=0c2b86104ea56df802b9973c4f336c62)
