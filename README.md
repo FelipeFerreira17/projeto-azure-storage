@@ -43,3 +43,4 @@ Se quiser, pode adicionar mensagens ou só crie o Queue.
 
 #### Criação Table
 Esse serviço é de armazenamento de dados não relacionais(NoSQL)
+![2024-10-22](https://github.com/user-attachments/assets/aa2dc2cb-7201-4a56-b296-f4d32a8671c5)
