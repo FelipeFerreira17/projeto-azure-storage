@@ -46,3 +46,6 @@ Esse serviço é de armazenamento de dados não relacionais(NoSQL)
 
 No menu de Data Storage, vá em Tables e depois aperte em Table para  criar.
 ![2024-10-22](https://github.com/user-attachments/assets/aa2dc2cb-7201-4a56-b296-f4d32a8671c5)
+
+#### Vizualização e manipulação através do Storage Explorer.
+
