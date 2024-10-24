@@ -56,3 +56,4 @@ O Storage Explorer pode se conectar a uma conta de armazenamento através da cha
 ![2024-10-24](https://github.com/user-attachments/assets/833b8f7c-4068-4471-a5b7-989d05216c9e)
 ![2024-10-24 (1)](https://github.com/user-attachments/assets/38739c14-99c1-473d-916b-09e14749a084)
 ![2024-10-24 (2)](https://github.com/user-attachments/assets/4834d21d-dfa7-40ca-acc5-6f2ca3c564e3)
+![2024-10-24 (3)](https://github.com/user-attachments/assets/476cf920-70bc-4a5d-a774-1cf8ccb8f725)
