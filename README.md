@@ -52,3 +52,4 @@ O Storage Explorer é uma ferramenta que os usuários podem se conectar em conta
 O Storage Explorer é uma ótima ferramenta de gerenciamento e visualização de dados em uma interface gráfica para os usuários.
 Para usar essa ferramenta, faça o download.
 [página para download do Storage Explorer](https://azure.microsoft.com/pt-br/products/storage/storage-explorer/?msockid=0c2b86104ea56df802b9973c4f336c62)
+O Storage Explorer pode se conectar a uma conta de armazenamento através da chave da conta de armazenamento mas aqui eu conectei através do SAS(Assinatura de acesso compartilhado), evitando assim compaartilhar a chave da conta e trazedo mais segurança pois posso designar um tempo em que uuma pessoa possa acessar essa conta de armazenamento r o que a pessoa pode modificar ou não na conta.
