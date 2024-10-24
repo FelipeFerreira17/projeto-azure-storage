@@ -55,3 +55,4 @@ Para usar essa ferramenta, faça o download.
 O Storage Explorer pode se conectar a uma conta de armazenamento através da chave da conta de armazenamento mas aqui eu conectei através do SAS(Assinatura de acesso compartilhado), evitando assim compaartilhar a chave da conta e trazedo mais segurança pois posso designar um tempo em que uuma pessoa possa acessar essa conta de armazenamento r o que a pessoa pode modificar ou não na conta.
 ![2024-10-24](https://github.com/user-attachments/assets/833b8f7c-4068-4471-a5b7-989d05216c9e)
 ![2024-10-24 (1)](https://github.com/user-attachments/assets/38739c14-99c1-473d-916b-09e14749a084)
+![2024-10-24 (2)](https://github.com/user-attachments/assets/4834d21d-dfa7-40ca-acc5-6f2ca3c564e3)
